@@ -1,16 +1,26 @@
-## Hi there 👋
+# ROZARTEX
+### ART • TECHNOLOGY
 
-<!--
-**ROZARTEX/rozartex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to ROZARTEX!
 
-Here are some ideas to get you started:
+We combine art, technology and software to create innovative digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Focus
+- Software Development
+- Web Design
+- Database Systems
+- Technology Projects
+
+## Technologies
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+## Our Mission
+Creating modern, creative and innovative digital experiences.
+
+---
+*ROZARTEX | Art • Technology*
